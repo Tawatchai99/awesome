@@ -1,4 +1,4 @@
-
+d2199859efa6284941084b5a5cefb010d82cad61
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
